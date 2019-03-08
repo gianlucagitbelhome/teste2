@@ -1,0 +1,42 @@
+.fones{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #b52506;
+font-size: 20px;
+margin-right: 20px;
+}
+
+.midias{
+    font-family: montserrat,verdana,'trebuchet ms', sans-serif;
+color:#b52506;
+float: right;
+display: block;
+margin-left: 25px;
+font-size: 12px 
+}
+
+.bg_menu{
+    background: #f6a800
+}
+.menu{
+    font-family: montserrat,verdana,'trebuchet ms', sans-serif;
+    font-size: 32px;
+    color: white;
+    font-weight: 800;
+    margin-right: 15px;
+    margin-left: 15px;
+    display: inline-block;
+    text-transform: uppercase
+}
+.banner{
+    width: 100%
+}
+.novo{
+   text-align: center;
+   color: #f6a800;
+   background-image: url("../image/bg-wood.jpg");
+   font-family: font-family: 'montserrat',arial,sans-serif; 
+   font-size: 2.3125rem;
+   font-weight: 800;
+   line-height: 2.3125rem;
+   margin: 0 0 10px 0;
+}
